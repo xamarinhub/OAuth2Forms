@@ -47,6 +47,9 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Auth">
+      <HintPath>..\..\Xamarin.Auth\source\Core\Xamarin.Auth.XamarinAndroid\bin\Release\Xamarin.Auth.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.3.0.912540" />
@@ -57,9 +60,6 @@
     <PackageReference Include="Xamarin.Android.Support.v7.MediaRouter" Version="27.0.2.1" />
     <PackageReference Include="Xamarin.Android.Support.CustomTabs">
       <Version>27.0.2.1</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Auth">
-      <Version>1.6.0.2</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

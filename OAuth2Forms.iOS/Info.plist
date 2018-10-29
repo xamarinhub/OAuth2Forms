@@ -39,10 +39,10 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>net.aliaslab.idsign</string>
+				<string>it.blube.mobile.cardholder.polimi</string>
 			</array>
 			<key>CFBundleURLName</key>
-			<string>oauth-callback/idsign</string>
+			<string>oauth_callback</string>
 			<key>CFBundleURLTypes</key>
 			<string>Viewer</string>
 		</dict>
