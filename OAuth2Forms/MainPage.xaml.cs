@@ -13,22 +13,6 @@ namespace OAuth2Forms
         // docs: https://docs.microsoft.com/xamarin/xamarin-forms/data-cloud/authentication/oauth
         // sample: https://developer.xamarin.com/samples/xamarin-forms/WebServices/OAuthNativeFlow/
 
-        //const string AuthorizationEndpoint = "https://idsign-sviluppo.aliaslab.net/IdSign.IdP/Jenkins/connect/authorize";
-        //const string TokenEndpoint = "https://idsign-sviluppo.aliaslab.net/IdSign.IdP/Jenkins/connect/token";
-        //const string UserInfoEndpoint = "https://idsign-sviluppo.aliaslab.net/IdSign.IdP/Jenkins/connect/userinfo";
-        //const string ClientID = "ids-svil-code-r";
-        //const string ClientSecret = "ids-svil-code";
-        //const string Scopes = "openid profile offline_access";
-        //const string RedirectUrl = "net.aliaslab.idsign://oauth-callback/idsign";
-
-        //const string AuthorizationEndpoint = "https://oauthidp.polimi.it/oauthidp/oauth2/auth";
-        //const string TokenEndpoint = "https://oauthidp.polimi.it/oauthidp/oauth2/token";
-        //const string UserInfoEndpoint = "https://idsign-sviluppo.aliaslab.net/IdSign.IdP/Jenkins/connect/userinfo";
-        //const string ClientID = "36767536";
-        //const string ClientSecret = "L6rmF2FvLN";
-        //const string Scopes = "openid";
-        //const string RedirectUrl = "it.blube.mobile.cardholder.polimi://oauth_callback";
-
         const string AuthorizationEndpoint = "xxxx";
         const string TokenEndpoint = "xxxx";
         const string UserInfoEndpoint = "xx";
