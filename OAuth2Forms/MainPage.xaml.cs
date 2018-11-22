@@ -16,7 +16,7 @@ namespace OAuth2Forms
 
         const string AuthorizationEndpoint = "https://oauthidp.polimi.it/oauthidp/oauth2/auth";
         const string TokenEndpoint = "https://oauthidp.polimi.it/oauthidp/oauth2/token";
-        const string UserInfoEndpoint = "https://idsign-sviluppo.aliaslab.net/IdSign.IdP/Jenkins/connect/userinfo";
+        const string UserInfoEndpoint = "https://oauthidp.polimi.it/oauthidp/oauth2/v3/userinfo";
         const string ClientID = "xxxxx";
         const string ClientSecret = "yyyyyy";
         const string Scopes = "openid";
